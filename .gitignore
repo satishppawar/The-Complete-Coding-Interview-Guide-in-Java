@@ -1,1 +1,4 @@
 /Chapter06/Abstraction/AbstractionViaInterface/target/
+**/*.classpath
+**/*.project
+**/*.settings/
